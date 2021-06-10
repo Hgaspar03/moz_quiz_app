@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:quiz_app_example/model/option.dart';
-import 'package:quiz_app_example/model/question.dart';
-import 'package:quiz_app_example/utils.dart';
+import 'package:moz_quiz_app/model/option.dart';
+import 'package:moz_quiz_app/model/question.dart';
+import 'package:moz_quiz_app/utils.dart';
 
 class OptionsWidget extends StatelessWidget {
   final Question question;

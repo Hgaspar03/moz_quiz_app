@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:quiz_app_example/page/home_page.dart';
+import 'package:moz_quiz_app/page/home_page.dart';
 
 Future main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -13,7 +13,7 @@ Future main() async {
 }
 
 class MyApp extends StatelessWidget {
-  static final String title = 'Quiz App';
+  static final String title = 'Moz Quiz';
 
   @override
   Widget build(BuildContext context) => MaterialApp(

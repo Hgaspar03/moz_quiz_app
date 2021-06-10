@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:quiz_app_example/model/category.dart';
+import 'package:moz_quiz_app/model/category.dart';
 
 class CategoryDetailWidget extends StatelessWidget {
   final Category category;

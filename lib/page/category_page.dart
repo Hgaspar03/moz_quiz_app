@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:quiz_app_example/model/category.dart';
-import 'package:quiz_app_example/model/option.dart';
-import 'package:quiz_app_example/model/question.dart';
-import 'package:quiz_app_example/widget/question_number_widget.dart';
-import 'package:quiz_app_example/widget/questions_widget.dart';
+import 'package:moz_quiz_app/model/category.dart';
+import 'package:moz_quiz_app/model/option.dart';
+import 'package:moz_quiz_app/model/question.dart';
+import 'package:moz_quiz_app/widget/question_number_widget.dart';
+import 'package:moz_quiz_app/widget/questions_widget.dart';
 
 class CategoryPage extends StatefulWidget {
   final Category category;

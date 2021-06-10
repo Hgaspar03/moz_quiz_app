@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:quiz_app_example/model/category.dart';
-import 'package:quiz_app_example/page/category_page.dart';
+import 'package:moz_quiz_app/model/category.dart';
+import 'package:moz_quiz_app/page/category_page.dart';
 
 class CategoryHeaderWidget extends StatelessWidget {
   final Category category;

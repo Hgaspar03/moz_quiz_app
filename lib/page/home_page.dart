@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:quiz_app_example/data/categories.dart';
-import 'package:quiz_app_example/page/category_page.dart';
-import 'package:quiz_app_example/widget/category_detail_widget.dart';
-import 'package:quiz_app_example/widget/category_widget.dart';
+import 'package:moz_quiz_app/data/categories.dart';
+import 'package:moz_quiz_app/page/category_page.dart';
+import 'package:moz_quiz_app/widget/category_detail_widget.dart';
+import 'package:moz_quiz_app/widget/category_widget.dart';
 
 class Homepage extends StatelessWidget {
   final String username = 'Helenio';
